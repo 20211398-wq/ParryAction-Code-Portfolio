@@ -1,0 +1,15 @@
+# This repository is a source-code portfolio, not an Unreal game project.
+/Content/
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/.vs/
+*.uasset
+*.umap
+*.exe
+*.obj
+*.pdb
+*.mp4
+*.wav
+*.ogg
